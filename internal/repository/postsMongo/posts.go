@@ -4,9 +4,9 @@ import (
 	"context"
 	"fmt"
 
+	"github.com/MaksimovDenis/skillfactory_task_30.8.1/internal/models"
 	"go.mongodb.org/mongo-driver/bson"
 	"go.mongodb.org/mongo-driver/mongo"
-	"skillfactory_task_31.3.1/internal/models"
 )
 
 const (

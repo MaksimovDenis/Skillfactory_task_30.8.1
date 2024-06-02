@@ -5,9 +5,9 @@ import (
 	"net/http"
 	"time"
 
+	"github.com/MaksimovDenis/skillfactory_task_30.8.1/internal/repository"
 	"github.com/gin-gonic/gin"
 	"github.com/rs/zerolog"
-	"skillfactory_task_31.3.1/internal/repository"
 )
 
 const (

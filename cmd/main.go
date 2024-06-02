@@ -10,9 +10,9 @@ import (
 	"github.com/rs/zerolog"
 	"github.com/rs/zerolog/log"
 
-	"skillfactory_task_31.3.1/internal/api"
-	"skillfactory_task_31.3.1/internal/config"
-	"skillfactory_task_31.3.1/internal/repository"
+	"github.com/MaksimovDenis/skillfactory_task_30.8.1/internal/api"
+	"github.com/MaksimovDenis/skillfactory_task_30.8.1/internal/config"
+	"github.com/MaksimovDenis/skillfactory_task_30.8.1/internal/repository"
 )
 
 func main() {

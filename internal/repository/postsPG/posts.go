@@ -4,9 +4,9 @@ import (
 	"context"
 	"errors"
 
+	"github.com/MaksimovDenis/skillfactory_task_30.8.1/internal/models"
 	"github.com/jackc/pgx/v5/pgconn"
 	"github.com/jackc/pgx/v5/pgxpool"
-	"skillfactory_task_31.3.1/internal/models"
 )
 
 type PostPostgres struct {
