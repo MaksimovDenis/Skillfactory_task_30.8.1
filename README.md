@@ -24,7 +24,7 @@ make install-deps
 
 5. Накатить миграции:  
 ```bash      
-make down 
+make migration-up 
 ```
 
 6. Запустить сервис:  
